@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @kevcarr1
-- 👀 I’m interested in learning about different programming languages, build systems and VMs.
-- I have experience with C, Python and Bash
-- 🌱 I’m currently learning about HTML, CSS, React, Rust, Perl, C++ and Bazel.
-- 💞️ I’m looking to collaborate on easy projects at the moment.
+👋 Hi, my name's Kevin
 
+🎓 Computer Engineering grad from the University of Pittsburgh
+
+🛠️ Experienced with: C, Python, and Bash
+🌱 Currently learning: C++, C# (Unity), and working with APIs including OpenStreetMap (OSM)
+
+📁 Projects:
+   - C++ Algorithms Reference — sorting/search algorithm implementations with correctness validation
+   - Pittsburgh Civil Engineering Simulator (in development) — scalable city planning simulation
